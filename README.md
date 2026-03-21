@@ -80,11 +80,6 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://github.com/ShreeRaksha07/ShreeRaksha07/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
