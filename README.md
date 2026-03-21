@@ -67,7 +67,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreeRaksha07E&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreeRaksha07&theme=tokyo-night" />
 </p>
 
 ---
