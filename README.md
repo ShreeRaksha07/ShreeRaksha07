@@ -1,102 +1,69 @@
-<h1 align="center">🌸 R. Shree Raksha</h1>
+<div align="center">
 
-<h3 align="center">💻 IT Department | 🚀 Learn Today, Lead Tomorrow</h3>
+# R. Shree Raksha
+**B.Tech Information Technology Student | Nandha Engineering College**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Enthusiast;Future+MERN+Developer;Passion+to+Profession;Always+Learning+Everyday&center=true&width=520&height=50">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shree-raksha-r-595a783a0)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shree03raksha07@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shree2007/)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreeRaksha07&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
-
----
-
-## 🌟 Overview
-
-✨ **Name:** R. Shree Raksha  
-🎓 **Department:** Information Technology  
-💡 **Tagline:** *Learn Today, Lead Tomorrow*  
+</div>
 
 ---
 
-## 💻 Languages I Know
+## 👨‍💻 About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql">
-</p>
+First-year B.Tech IT student (**CGPA 9.44/10**) building a strong foundation in Python and backend development, with a keen interest in full-stack systems and AI-based applications. Currently strengthening data structures and algorithms through LeetCode and applied Python projects.
 
 ---
 
-## 👩‍💻 About Me
+## 🛠️ Technical Skills
 
-🌱 Focused on transforming **passion into profession**  
-💙 Loves **Backend Development**  
-🚀 Learning **MERN Full Stack Development**  
-
----
-
-## 🛠️ Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,mysql">
-</p>
-
-<p align="center">
-  🐍 Spyder IDE
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `C` `Java` |
+| **Web & Database** | `HTML` `MySQL` |
+| **Tools** | `Git` `GitHub` `VS Code` `Spyder` |
+| **Learning** | `MERN Stack` `Data Structures & Algorithms` |
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreeRaksha07&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+**📈 Stock Market Chatbot** | *Python, AI Concepts*
+> Conversational assistant that answers beginner-level stock market queries to support self-directed learning.
 
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreeRaksha07&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreeRaksha07&theme=tokyo-night" />
-</p>
-
----
-
-## 🧠 LeetCode Streak
-
-<p align="center">
-  🔗 <a href="https://leetcode.com/u/shree2007/" target="_blank">View My LeetCode Progress</a>
-</p>
-
----
+**♻️ Project AfterLife** | *TypeScript*
+> Platform concept extending the lifecycle of student projects beyond hackathons. Contributed to problem identification, solution design, and UI/UX.
 
 
 ---
 
-## ✨ Developer Quote
-
-<p align="center">
-  💖 "Code. Learn. Build. Repeat. 🚀"
-</p>
+  
 
 ---
 
-## 🌈 Fun Fact
+## 📊 Developer Dashboard
 
-<p align="center">
-  ⚡ I turn ☕ coffee into 💻 code!
-</p>
+<div align="center">
+
+### ⌨️ LeetCode Activity
+*(Live automated stats - dynamically generated)*
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+
+### 🏅 HackerRank Badges
+*(Replace the link below with your actual uploaded image path)*
+
+<img src="assets/hackerrank-badges.png" alt="HackerRank Badges" width="400"/>
+
+### 📈 GitHub Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShreeRaksha07&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ---
-
-⭐ *Thanks for visiting my profile! Let's build something amazing together.*
+<div align="center">
+  <i>Building systems. Solving problems. Learning continuously.</i>
+</div>
