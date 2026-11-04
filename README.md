@@ -59,7 +59,7 @@ First-year B.Tech IT student (**CGPA 9.44/10**) building a strong foundation in 
 
 ### 📈 GitHub Contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShreeRaksha07&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=ShreeRaksha07&theme=dark&hide_border=true)
 
 </div>
 
