@@ -55,7 +55,7 @@ First-year B.Tech IT student (**CGPA 9.44/10**) building a strong foundation in 
 ### 🏅 HackerRank Badges
 *(Replace the link below with your actual uploaded image path)*
 
-<img src="hackerrank-badges.png" alt="HackerRank Badges" width="400"/>
+<img src="Hackerrank-badges.png" alt="HackerRank Badges" width="400"/>
 
 ### 📈 GitHub Contributions
 
