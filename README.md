@@ -50,7 +50,7 @@ First-year B.Tech IT student (**CGPA 9.44/10**) building a strong foundation in 
 ### ⌨️ LeetCode Activity
 *(Live automated stats - dynamically generated)*
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/u/shree2007/)
 
 ### 🏅 HackerRank Badges
 *(Replace the link below with your actual uploaded image path)*
